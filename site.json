@@ -1,0 +1,312 @@
+[
+    {
+        "active": "N",
+        "siteId": "1",
+        "siteName": "Kahalgaon"
+    },
+    {
+        "active": "N",
+        "siteId": "100",
+        "siteName": "delete"
+    },
+    {
+        "active": "N",
+        "line1": "SHIV SHAKTI TEST17-17",
+        "line2": "TEST TATA",
+        "line3": "JUGSALAI",
+        "line4": "JAMSHEDPUR,JHARKHAND",
+        "siteCode": "TEST1",
+        "siteId": "100001",
+        "siteName": "TEST17-18"
+    },
+    {
+        "active": "N",
+        "siteId": "1001",
+        "siteName": "admin"
+    },
+    {
+        "active": "N",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": " AT+P.O- Pirpainti, Dis-Bhagalpur, ",
+        "line3": "Pin- 813209, Bihar ",
+        "line4": "GSTIN/UIN:- 10AUMPS1586K2Z8,State Code:- 10-Bihar",
+        "siteCode": "CLG",
+        "siteId": "101",
+        "siteName": "CLG16-17"
+    },
+    {
+        "active": "N",
+        "line1": "02",
+        "line2": "02",
+        "line3": "03",
+        "line4": "12",
+        "line5": "12",
+        "siteCode": "01",
+        "siteId": "10122018",
+        "siteName": "manjeet"
+    },
+    {
+        "active": "N",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "BKTPP Pipe Line Road,Nimtikuri,",
+        "line3": "P.O- Chakdaha,Birbhum- 731102 ",
+        "line4": "GSTIN/UIN:- 19AUMPS1586K1ZR,State Code:- 19-West Bengal",
+        "siteCode": "SURI",
+        "siteId": "102",
+        "siteName": "SURI16-17"
+    },
+    {
+        "active": "N",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "Shivdhari Appartment,flat No-201,",
+        "line3": "Ghora Chowk, Jugsalai, Jamshedpur 831006",
+        "line4": "GSTIN/UIN:- 20AUMPS1586K1Z8,State Code:- 20-Jharkhand",
+        "siteCode": "TATA",
+        "siteId": "103",
+        "siteName": "TATA16-17"
+    },
+    {
+        "active": "N",
+        "siteId": "104",
+        "siteName": "Bag Plant"
+    },
+    {
+        "active": "N",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": " AT+P.O- Pirpainti, Dis-Bhagalpur, ",
+        "line3": " Pin- 813209, Bihar ",
+        "line4": " SERVICE TAX NUMBER : AUMPS1586KST001 ",
+        "siteCode": "STPS",
+        "siteId": "105",
+        "siteName": "STPS16-17"
+    },
+    {
+        "active": "N",
+        "siteId": "11",
+        "siteName": "Farakka"
+    },
+    {
+        "active": "N",
+        "siteId": "12",
+        "siteName": "Barh"
+    },
+    {
+        "active": "N",
+        "siteId": "13",
+        "siteName": "Durgapur"
+    },
+    {
+        "active": "N",
+        "siteId": "2",
+        "siteName": "Siuri"
+    },
+    {
+        "active": "N",
+        "siteCode": "DEL18",
+        "siteId": "200",
+        "siteName": "DELETE18"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2017",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": " AT+P.O- Pirpainti, Dist-Bhagalpur, ",
+        "line3": " Pin- 813209, Bihar ",
+        "line4": "GSTIN/UIN:- 10AUMPS1586K2Z8,State Code:- 10-Bihar",
+        "line5": "2017",
+        "siteCode": "CLG",
+        "siteId": "201",
+        "siteName": "CLG 17-18"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2017",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "BKTPP Pipe Line Road,Nimtikuri,",
+        "line3": "P.O- Chakdaha,Birbhum- 731102 ",
+        "line4": "GSTIN/UIN:- 19AUMPS1586K1ZR,State Code:- 19-West Bengal",
+        "line5": "2017",
+        "siteCode": "SURI",
+        "siteId": "202",
+        "siteName": "Suri 17-18"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2017",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "Shivdhari Appartment,flat No-201,",
+        "line3": "Ghora Chowk, Jugsalai, Jamshedpur 831006",
+        "line4": "GSTIN/UIN:- 20AUMPS1586K1Z8,State Code:- 20-Jharkhand",
+        "line5": "2017",
+        "siteCode": "TATA",
+        "siteId": "203",
+        "siteName": "Tata 17-18"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2017",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "BKTPP Pipe Line Road,Nimtikuri,",
+        "line3": "P.O-Chakdaha,Birbhum-731102",
+        "line4": "GSTIN/UIN:- 19AUMPS1586K1ZR",
+        "line5": "State Code:- 19-West Bengal",
+        "siteCode": "STPS",
+        "siteId": "204",
+        "siteName": "STPS17-18"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2017",
+        "line1": "Pakartalla,Near Petrol Pump",
+        "line2": "Kahalgaon,Bhagalpur",
+        "line3": "Bihar,Pin-813203",
+        "siteCode": "SSP",
+        "siteId": "205",
+        "siteName": "Bag Plant17-18"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2017",
+        "siteCode": "Mej",
+        "siteId": "206",
+        "siteName": "Mejia17-18"
+    },
+    {
+        "active": "N",
+        "siteId": "3",
+        "siteName": "Tata"
+    },
+    {
+        "active": "N",
+        "siteId": "30",
+        "siteName": "deleteTata"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2018",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": " AT+P.O- Pirpainti, Dist-Bhagalpur, ",
+        "line3": " Pin- 813209, Bihar ",
+        "line4": "GSTIN/UIN:- 10AUMPS1586K2Z8,State Code:- 10-Bihar",
+        "line5": "2018",
+        "siteCode": "CLG",
+        "siteId": "301",
+        "siteName": "Kahalgaon"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2018",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "Subhas Pally, Suri Dubrajpur Road",
+        "line3": "Birbhum West Bengal, 731101",
+        "line4": "GSTIN/UIN:- 19AUMPS1586K1ZR,State Code:- 19-West Bengal",
+        "line5": "2018",
+        "siteCode": "SURI",
+        "siteId": "302",
+        "siteName": "Suri"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2018",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "Shivdhari Appartment,flat No-201,",
+        "line3": "Ghora Chowk, Jugsalai, Jamshedpur 831006",
+        "line4": "GSTIN/UIN:- 20AUMPS1586K1Z8,State Code:- 20-Jharkhand",
+        "line5": "2018",
+        "siteCode": "TATA",
+        "siteId": "303",
+        "siteName": "Tata"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2018",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "Subhas Pally, Suri Dubrajpur Road",
+        "line3": "Birbhum West Bengal, 731101",
+        "line4": "GSTIN/UIN:- 19AUMPS1586K1ZR",
+        "line5": "2018",
+        "siteCode": "STPS",
+        "siteId": "304",
+        "siteName": "Santaldih"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2018",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "Subhas Pally, Suri Dubrajpur Road",
+        "line3": "Birbhum West Bengal, 731101",
+        "line4": "GSTIN/UIN:- 19AUMPS1586K1ZR,State Code:- 19-West Bengal",
+        "line5": "2018",
+        "siteCode": "MEJIA",
+        "siteId": "305",
+        "siteName": "Mejia"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2018",
+        "line1": "Pakartalla,Near Petrol pump,",
+        "line2": "Kahalgaon,Bhagalpur,",
+        "line3": "Bihar - 813203",
+        "line4": "GST No - 10AAIHV2580C1ZH, State code:10-Bihar",
+        "line5": "2018",
+        "siteCode": "SSP",
+        "siteId": "306",
+        "siteName": "SSP Plant"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2018",
+        "line1": "Shiv Shakti Enterprises",
+        "line2": "Vill: Rukmini Nagar, Kundil Path,H.No: 14",
+        "line3": "Dist: Kamrup,Pin: 781006",
+        "line4": "GSTIN: 18AUMPS1586K1ZT",
+        "siteCode": "Ghy",
+        "siteId": "307",
+        "siteName": "Guwahati"
+    },
+    {
+        "active": "N",
+        "siteId": "4",
+        "siteName": "xxxx"
+    },
+    {
+        "active": "Y",
+        "fyiyear": "2018",
+        "siteCode": "test",
+        "siteId": "5",
+        "siteName": "test"
+    },
+    {
+        "active": "N",
+        "siteId": "51",
+        "siteName": "old clg"
+    },
+    {
+        "active": "N",
+        "siteId": "52",
+        "siteName": "old suri"
+    },
+    {
+        "active": "N",
+        "siteId": "53",
+        "siteName": "old tata"
+    },
+    {
+        "active": "N",
+        "siteCode": "CLG",
+        "siteId": "clg2017",
+        "siteName": "Kahalgaon17"
+    },
+    {
+        "active": "N",
+        "siteCode": "SURI",
+        "siteId": "suri2017",
+        "siteName": "Suri17"
+    },
+    {
+        "active": "N",
+        "siteCode": "TATA",
+        "siteId": "tata2017",
+        "siteName": "Tata17"
+    }
+]
