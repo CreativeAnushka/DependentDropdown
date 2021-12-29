@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Final Dropdown</title>
+	<link href="https://bootstrapmade.com/demo/templates/Gp/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"/>
+	<link rel="stylesheet" type="text/css" href="https://shivait.s3.filebase.com/assets/semantic.min.css"/>     
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script>
+    <script src="https://shivait.s3.filebase.com/assets/semantic.min.js"></script>   
+</head>
+<body>
+	<div class="jumbotron text-center">
+		<h1>Dynamic Data loadings</h1>
+	</div>
+	<div class="col-md-6 col-md-offset-3">
+		<form class="form">
+			<div class="form-group">
+				<label for="Site">
+					Site
+				</label>
+				<select class="ui fluid normal search selection dropdown form-control btn btn-primary" id="site">					
+				</select>
+			</div>
+			<div class="form-group">
+				<label for="Employee">
+					Employee Type
+				</label>
+				<select class="ui fluid normal search selection dropdown form-control btn btn-primary" id="empType">				
+				</select>
+			</div>
+		</form>		
+	</div>
+ 
+	<script type="text/javascript" src="./app.js"></script>
+	<script>
+        $('.dropdown').dropdown({
+        	clearable:true
+        });
+    </script>
+</body>
+</html>
