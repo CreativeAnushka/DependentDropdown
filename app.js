@@ -18,7 +18,8 @@ var myObj =
 		//AJAX Call to retrieve data from URL
 		var xhr = new XMLHttpRequest();
 		//Method, URL of API, true for asynchronous
-		xhr.open('GET','http://localhost:3000/site',true);
+		xhr.open('GET','https://raw.githubusercontent.com/CreativeAnushka/DependentDropdown/main/site.json',true);		
+		//xhr.open('GET','http://localhost:3000/site',true);
 		xhr.onload = function()
 		{
 			// We perform some action with the retrieved data
@@ -51,7 +52,8 @@ var myObj =
 
 		document.getElementById('empType').innerHTML = '';
 		var xhr = new XMLHttpRequest();
-		xhr.open('GET','http://localhost:3000/employee?siteId='+id,true);
+		xhr.open('GET','https://raw.githubusercontent.com/CreativeAnushka/DependentDropdown/main/employee.json?siteId='+id,true);		
+		//xhr.open('GET','http://localhost:3000/employee?siteId='+id,true);
 		xhr.onload = function()
 		{
 			var emp= JSON.parse(xhr.responseText);
